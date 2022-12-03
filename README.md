@@ -1,1 +1,1 @@
-# De-i-kenler
+# Degiskenler
